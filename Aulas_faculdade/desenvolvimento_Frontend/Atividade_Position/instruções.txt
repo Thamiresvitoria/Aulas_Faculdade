@@ -1,0 +1,3 @@
+Usando apenas CSS e posicionamento, desenhe as bandeiras do
+Japão, da Suíça, da Itália e da Alemanha, de modo a ficar similar à
+imagem final.jpg

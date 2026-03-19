@@ -1,0 +1,108 @@
+/*Não altere o código de body e da classe bandeira*/
+body{
+    background-color: rgb(206, 206, 206);
+}
+
+.bandeira{
+    width: 300px;
+    height: 200px;
+    display: inline-block;
+}
+
+.bandeira-japao{
+    background-color: white;
+
+}
+
+.bandeira-japao .circulo{
+    background-color: red;
+    position: absolute;
+    top: 60px;
+    bottom: 2px;
+    right: 3px;
+    left: 100px;
+    border-radius: 50%;
+    width:5%;
+    height:10%;
+
+}
+
+.bandeira-suica {
+    background-color: red;
+}
+
+.bandeira-suica .branca{
+    background-color: white;
+    position: absolute;
+    top: 40px;
+    bottom: 2px;
+    right: 30px;
+    left: 435px;
+    width:3.5%;
+    height:15%;
+}
+
+.bandeira-suica .brancaVer{
+     background-color: white;
+     position: absolute;
+     top: 85px;
+     bottom: 2px;
+     right: 0px;
+     left: 370px;
+     width:10%; 
+     height:5.2%;
+     z-index: 10;
+}
+
+.bandeira-italia{
+    background-color: white;
+}
+
+.bandeira-italia .linhaVerde{
+     background-color: green;
+     position: absolute;
+     top: 8px;
+     bottom: 0px;
+     right: 0px;
+     left:42.2%;
+     width:5.5%; 
+     height:21.2%;
+}
+
+.bandeira-italia .linhaVermelha{
+     background-color: rgb(255, 0, 0);
+     top: 85px;
+     bottom: 50px;
+     right: 0px;
+     left: 0px;
+     width:31%; 
+     height:100%;
+}
+
+.bandeira-alemanha {
+    background-color: rgb(255, 0, 0);
+}
+
+.bandeira-alemanha .linhaPreta{
+    background-color: black;
+    position: absolute;
+    top:8px;
+    bottom:40;
+    left: 47.9%;
+    right: 0;
+    width:15.7%;
+    height:8%;
+}
+
+.bandeira-alemanha .linhaAmarela{
+     background-color: rgb(255, 196, 0);
+     position: absolute;
+     top:143px;
+     bottom:40;
+     left: 47.9%;
+     right: 0;
+     width:15.7%;
+     height:7%;
+}
+
+/*Começe seu código a partir daqui*/
