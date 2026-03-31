@@ -1,2 +1,3 @@
 # Aulas_Faculdade
-falta adicionar as atividades..
+
+Aos pouco vou adicionado
